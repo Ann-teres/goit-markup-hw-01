@@ -1,9 +1,9 @@
 ul{
-    list-style: none;
+    #list-style: none;
 }
 a {
-    text-decoration: none;
+    #text-decoration: none;
 }
-#text{
-    color: brown;
+text{
+    #git color: brown;
 }
